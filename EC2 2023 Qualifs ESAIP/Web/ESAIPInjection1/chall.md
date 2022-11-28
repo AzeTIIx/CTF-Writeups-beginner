@@ -4,7 +4,7 @@
 
 On tombe sur cette page de connexion : 
 
-![](../images/1.png)
+![](./images/1.png)
 
 Le challenge requiert de rentrer du texte dans les deux champs d'entrée, on fait une Blind SQLI de la forme : 
 
