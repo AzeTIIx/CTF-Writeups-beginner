@@ -1,4 +1,4 @@
-# pas un bon nom
+# Coffre fort secret
 
 > Le coffre-fort secret ne semble pas déchiffrer correctement. Corrigez-le pour obtenir des points. Il y a peut-être d'autres problèmes, qui sait !
 
